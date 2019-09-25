@@ -1,2 +1,2 @@
 # SQL_Alchemy_Challenge
-Use Alchemy to analyze Hawaiian weather data
+Use SQL Alchemy to analyze Hawaiian weather data!
